@@ -1,1 +1,1 @@
-# odin-recipes
+This project will consist in setting up a few recipes to test out my html skills
